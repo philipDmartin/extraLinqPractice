@@ -1,0 +1,11 @@
+C:\Users\phili\workspace\csharp\exercises\extraPractice\bin\Debug\netcoreapp3.1\extraPractice.exe
+C:\Users\phili\workspace\csharp\exercises\extraPractice\bin\Debug\netcoreapp3.1\extraPractice.deps.json
+C:\Users\phili\workspace\csharp\exercises\extraPractice\bin\Debug\netcoreapp3.1\extraPractice.runtimeconfig.json
+C:\Users\phili\workspace\csharp\exercises\extraPractice\bin\Debug\netcoreapp3.1\extraPractice.runtimeconfig.dev.json
+C:\Users\phili\workspace\csharp\exercises\extraPractice\bin\Debug\netcoreapp3.1\extraPractice.dll
+C:\Users\phili\workspace\csharp\exercises\extraPractice\bin\Debug\netcoreapp3.1\extraPractice.pdb
+C:\Users\phili\workspace\csharp\exercises\extraPractice\obj\Debug\netcoreapp3.1\extraPractice.csprojAssemblyReference.cache
+C:\Users\phili\workspace\csharp\exercises\extraPractice\obj\Debug\netcoreapp3.1\extraPractice.AssemblyInfoInputs.cache
+C:\Users\phili\workspace\csharp\exercises\extraPractice\obj\Debug\netcoreapp3.1\extraPractice.AssemblyInfo.cs
+C:\Users\phili\workspace\csharp\exercises\extraPractice\obj\Debug\netcoreapp3.1\extraPractice.dll
+C:\Users\phili\workspace\csharp\exercises\extraPractice\obj\Debug\netcoreapp3.1\extraPractice.pdb
